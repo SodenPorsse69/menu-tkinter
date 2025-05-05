@@ -1,0 +1,7 @@
+Data: 01/5/2025
+Cliente: torto
+Produto: lapis
+Quantidade: 1
+Preço unitário: 2.00
+Preço total: 2.00
+---
